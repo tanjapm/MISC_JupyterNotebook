@@ -1,0 +1,35 @@
+(06/04/2018 13:58:44) Information [Stmgr] "Enable manual command failed: MTS 4 Displacement 4"
+(06/04/2018 13:58:49) Information [Stmgr] "Enable manual command failed: MTS 4 Displacement 4"
+(06/04/2018 13:58:51) Information [Stmgr] "Manual command enabled: MTS 4 Displacement 4"
+(06/04/2018 13:59:43) Information [Stmgr] "HPU T7-J25 -- High Pressure."
+(06/04/2018 13:59:43) Information [Stmgr] "HSM T4-J28B -- Low Pressure."
+(06/04/2018 14:00:19) Information [Stmgr] "HSM T4-J28B -- High Pressure."
+(06/04/2018 14:00:26) Warning [Stmgr] "MTS 4 Displacement 4 -- Lower Limit Tripped."
+(06/04/2018 14:00:26) Information [Stmgr] "HPU T7-J25 -- No Pressure."
+(06/04/2018 14:00:26) Information [Stmgr] "HSM T4-J28B -- No Pressure."
+(06/04/2018 14:01:07) Information [Stmgr] "HPU T7-J25 -- High Pressure."
+(06/04/2018 14:01:07) Information [Stmgr] "HSM T4-J28B -- Low Pressure."
+(06/04/2018 14:01:44) Information [Stmgr] "HSM T4-J28B -- High Pressure."
+(06/04/2018 14:06:04) Information [Stmgr] "Manual command disabled: MTS 4 Displacement 4"
+(06/04/2018 14:09:22) Information [MPT Runtime] "Procedure Beginning: MTS4-Traction_PC_A_et_T.000"
+(06/04/2018 14:09:22) Information [MPT Runtime] "Running"
+(06/04/2018 14:11:08) Warning [Stmgr] "MTS 4 Force 4 -- Lower Limit Tripped."
+(06/04/2018 14:11:08) Information [Stmgr] "HPU T7-J25 -- No Pressure."
+(06/04/2018 14:11:08) Information [Stmgr] "HSM T4-J28B -- No Pressure."
+(06/04/2018 14:11:08) Information [MPT/Failure Detector] "'Failure Detector 1': Failure Event Detected"
+(06/04/2018 14:11:08) Information [MPT Runtime] "Entering Stopped"
+(06/04/2018 14:11:08) Error [MPT Runtime] "Procedure Interlocked: 'HSM T4-J28B' is 'Off'.
+ Running Time:  00:01:46 
+ Channel Counters:
+    MTS 4 -          0  Cycles"
+(06/04/2018 14:11:08) Information [MPT Runtime] "Procedure Done"
+(06/04/2018 14:11:08) Information [MPT Runtime] "Stopped
+ Running Time:  00:01:46 
+ Channel Counters:
+    MTS 4 -          0  Cycles"
+(06/04/2018 14:11:50) Warning [Stmgr] "MTS 4 Displacement 4 -- Upper Limit Tripped."
+(06/04/2018 14:15:47) Information [Stmgr] "HPU T7-J25 -- High Pressure."
+(06/04/2018 14:15:47) Information [Stmgr] "HSM T4-J28B -- Low Pressure."
+(06/04/2018 14:15:53) Information [Stmgr] "HSM T4-J28B -- High Pressure."
+(06/04/2018 14:16:00) Information [Stmgr] "Enable manual command failed: MTS 4 Displacement 4"
+(06/04/2018 14:16:05) Information [Stmgr] "Manual command enabled: MTS 4 Displacement 4"

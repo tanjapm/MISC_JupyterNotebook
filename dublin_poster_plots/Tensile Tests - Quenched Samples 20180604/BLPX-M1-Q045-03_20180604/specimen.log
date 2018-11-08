@@ -1,0 +1,42 @@
+(06/04/2018 16:15:53) Information [Stmgr] "Manual command enabled: MTS 4 Displacement 4"
+(06/04/2018 16:16:19) Information [Stmgr] "Manual command disabled: MTS 4 Displacement 4"
+(06/04/2018 16:16:58) Information [MPT Runtime] "Procedure Beginning: MTS4-Traction_PC_A_et_T.000"
+(06/04/2018 16:16:58) Information [MPT Runtime] "Running"
+(06/04/2018 16:18:01) Information [MPT/Failure Detector] "'Failure Detector 1': Failure Event Detected"
+(06/04/2018 16:18:01) Information [MPT Runtime] "Procedure Done"
+(06/04/2018 16:18:01) Information [MPT Runtime] "Stopped
+ Running Time:  00:01:02 
+ Channel Counters:
+    MTS 4 -          0  Cycles"
+(06/04/2018 16:18:49) Information [MPT Runtime] "Procedure Reset"
+(06/04/2018 16:18:49) Information [MPT Runtime] "Procedure Beginning: MTS4-Traction_PC_A_et_T.000"
+(06/04/2018 16:18:49) Information [MPT Runtime] "Running"
+(06/04/2018 16:18:51) Information [MPT/Failure Detector] "'Failure Detector 1': Failure Event Detected"
+(06/04/2018 16:18:51) Information [MPT/Failure Detector] "'Failure Detector 1': Failure Event Detected"
+(06/04/2018 16:18:51) Information [MPT Runtime] "Procedure Done"
+(06/04/2018 16:18:51) Information [MPT Runtime] "Stopped
+ Running Time:  00:00:02 
+ Channel Counters:
+    MTS 4 -          0  Cycles"
+(06/04/2018 16:19:05) Information [MPT Runtime] "Procedure Reset"
+(06/04/2018 16:19:05) Information [MPT Runtime] "Procedure Beginning: MTS4-Traction_PC_A_et_T.000"
+(06/04/2018 16:19:05) Information [MPT Runtime] "Running"
+(06/04/2018 16:19:11) Information [MPT/Failure Detector] "'Failure Detector 1': Failure Event Detected"
+(06/04/2018 16:19:11) Information [MPT/Failure Detector] "'Failure Detector 1': Failure Event Detected"
+(06/04/2018 16:19:11) Information [MPT Runtime] "Procedure Done"
+(06/04/2018 16:19:11) Information [MPT Runtime] "Stopped
+ Running Time:  00:00:06 
+ Channel Counters:
+    MTS 4 -          0  Cycles"
+(06/04/2018 16:19:22) Information [MPT Runtime] "Procedure Reset"
+(06/04/2018 16:19:22) Information [MPT Runtime] "Procedure Beginning: MTS4-Traction_PC_A_et_T.000"
+(06/04/2018 16:19:22) Information [MPT Runtime] "Running"
+(06/04/2018 16:19:29) Information [MPT/Failure Detector] "'Failure Detector 1': Failure Event Detected"
+(06/04/2018 16:19:29) Information [MPT/Failure Detector] "'Failure Detector 1': Failure Event Detected"
+(06/04/2018 16:19:29) Information [MPT Runtime] "Procedure Done"
+(06/04/2018 16:19:29) Information [MPT Runtime] "Stopped
+ Running Time:  00:00:07 
+ Channel Counters:
+    MTS 4 -          0  Cycles"
+(06/04/2018 16:20:19) Information [Stmgr] "Enable manual command failed: MTS 4 Displacement 4"
+(06/04/2018 16:20:23) Information [Stmgr] "Enable manual command failed: MTS 4 Displacement 4"

@@ -1,0 +1,14 @@
+(06/04/2018 16:28:09) Information [Stmgr] "Manual command disabled: MTS 4 Displacement 4"
+(06/04/2018 16:28:15) Information [MPT Runtime] "Procedure Beginning: MTS4-Traction_PC_A_et_T.000"
+(06/04/2018 16:28:15) Information [MPT Runtime] "Running"
+(06/04/2018 16:29:20) Information [MPT/Failure Detector] "'Failure Detector 1': Failure Event Detected"
+(06/04/2018 16:29:20) Information [MPT Runtime] "Procedure Done"
+(06/04/2018 16:29:21) Information [MPT Runtime] "Stopped
+ Running Time:  00:01:05 
+ Channel Counters:
+    MTS 4 -          0  Cycles"
+(06/04/2018 16:30:27) Information [Stmgr] "HPU T7-J25 -- No Pressure."
+(06/04/2018 16:30:27) Information [Stmgr] "HSM T4-J28B -- No Pressure."
+(06/04/2018 16:30:35) Warning [Stmgr] "MTS 4 Displacement 4 -- Upper Limit Tripped."
+(06/04/2018 16:31:13) Information [Stmgr] "Saved Views: 'Default Views'."
+(06/04/2018 16:31:13) Information [Stmgr] "Station MTS-4.cfg is closed."

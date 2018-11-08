@@ -1,0 +1,10 @@
+(06/04/2018 16:20:38) Information [Stmgr] "Manual command enabled: MTS 4 Displacement 4"
+(06/04/2018 16:20:44) Information [Stmgr] "Manual command disabled: MTS 4 Displacement 4"
+(06/04/2018 16:21:30) Information [MPT Runtime] "Procedure Beginning: MTS4-Traction_PC_A_et_T.000"
+(06/04/2018 16:21:30) Information [MPT Runtime] "Running"
+(06/04/2018 16:22:28) Information [MPT/Failure Detector] "'Failure Detector 1': Failure Event Detected"
+(06/04/2018 16:22:28) Information [MPT Runtime] "Procedure Done"
+(06/04/2018 16:22:28) Information [MPT Runtime] "Stopped
+ Running Time:  00:00:57 
+ Channel Counters:
+    MTS 4 -          0  Cycles"
